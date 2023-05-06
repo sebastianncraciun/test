@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "357817173704",
+    "project_id": "smart-collaborative-agenda",
+    "storage_bucket": "smart-collaborative-agenda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357817173704:android:24dffbf78960b6dcf4c7fd",
+        "android_client_info": {
+          "package_name": "eu.ase.ro.smartcollaborativeagenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357817173704-tmsiae3ksrto8qthdomavj4ru3kmc1sf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eu.ase.ro.smartcollaborativeagenda",
+            "certificate_hash": "63f841408087bc2919b666cddd957ff1aff46dc5"
+          }
+        },
+        {
+          "client_id": "357817173704-47jv83lf2ko574iblt8nvnnagl2bi2p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpDVmo0Iz0QE9Nnrsy6WW3l9xrsleC5Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357817173704-2te22ut7rbarp9mv8nvm2ut2ssc72t7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
